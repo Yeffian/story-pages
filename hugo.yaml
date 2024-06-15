@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://story-pages.vercel.app/
 languageCode: en-us
 title: Pages of my Stories
 theme: ["PaperMod"]
