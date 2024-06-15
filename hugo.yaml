@@ -18,6 +18,9 @@ params:
     - name: instagram
       title: Chat with me on Insta!
       url: https://www.instagram.com/yeffian/
+    - name: fiverr
+      title: Book me for a gig on Fiverr!
+      url: https://www.fiverr.com/seller_dashboard
   
   outputs:
     home:
