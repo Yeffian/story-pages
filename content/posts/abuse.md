@@ -1,0 +1,16 @@
+---
+author: ["Adit Chakraborty"]
+title: "Abuse"
+layout: "abuse"
+date: "2024-06-01"
+---
+
+“STOP IT!”, I cried, as glass hurled across the room, smashing into the wall with a sharp crack. He turned from his target, paying no attention to me, to find his next weapon, rustling around the dark room with a depraved thirst for anything; anything which could harm, anything which would draw blood. As this monster of a man, nothing but a mere shadow of the man who I thought I knew, stormed around for his next to-be-projectile, I turned around to look at the woman lying on the floor, her gentle hands cradling the sea of red pouring from her marked and bruised forehead.
+
+Counting my stars that the malevolent creature had his back turned, I held my breath and sprinted to her side, doing all I could to get her shaking body out of the room. The smell of freshly drawn blood filled my nostrils, mixing with the metallic scent of whatever objects the bastard had thrown at her. As I grabbed below her shoulders in an attempt to pull her away, I heard a dull crack followed by a definite thud. I felt around the unnaturally tender area; broken shoulders, both left and right as far as I could feel. Her face was mangled, her gorgeous curly hair ripped in places and scattered roughly around her scarred face. She wanted to scream, but understood what I was doing; she might have been beaten to a pulp, but my mom was no slouch when it came to situational awareness. 
+
+I pulled her warm body away as quietly as I could, as the devil kept trawling through and ripping the room apart in his blind rage. Every second, every rustle of her failing body on the wooden floor, felt like it was being stretched to hours. The door was right behind, but moving to it felt like it took an eternity. The clock on the wall ticked mercilessly, an endless reminder of the fact that he could turn around at any moment, and it would all be over. I looked behind me, gauging if I could provide her the luxury of dragging her slower and lessening her pain, or to pull her with the last bit of energy I had in my already sore arms. Almost there, I thought, as the door lay open mere centimeters away, slightly ajar but enough to fit through without making too much noise.
+
+I reached the door. As I tiptoed out, bending her arms around to get her through, something changed. I was too far to see him at this point, but there was no longer the chaotic rummaging that was coming from the far end of the room. It was silent. Pure silence. My brain told me to take her and run, but every nerve and muscle in my body tightened, frozen to the spot. Something was wrong. He was out for blood, so why would he stop looking for the knife now? Right as my brain was kicking back into action and preparing to move out of the door and the fuck out of there, a contorted scream erupted, as if coming from the pits of hell itself. “BOY”, it shouted, and the large ebony cross flying towards me was the last thing I saw before it all plunged into the dark.
+
+As I walk around, my cane scanning thoroughly in front of me, I wonder; could my life have gone anywhere else? What would have happened if I hadn’t made the move, and stayed in the corner?

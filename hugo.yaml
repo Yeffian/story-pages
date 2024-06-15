@@ -1,0 +1,26 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Pages of my Stories
+theme: ["PaperMod"]
+
+mainsections: ["posts", "papermod"]
+
+params:
+  ShowReadingTime: true
+  homeInfoParams:
+    Title: Welcome to my writing...
+    Content: Sometimes I write half decent stuff, if I do it goes on here.
+
+  socialIcons:
+    - name: github
+      title: Check out my Github!
+      url: https://github.com/Yeffian
+    - name: instagram
+      title: Chat with me on Insta!
+      url: https://www.instagram.com/yeffian/
+  
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
