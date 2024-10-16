@@ -1,0 +1,19 @@
+---
+author: ["Adit Chakraborty"]
+title: "Is Acceptance Our Fault"
+date: "2024-10-16"
+---
+
+Being a Bangladeshi Hindu, our family is one rich in culture and history dating back decades and decades ago. Whenever we introduce others to our traditions through food, rituals, or festivals, there is nothing but amazement and respect shown.
+
+Human curiosity about different cultures expands perspectives, fostering sensitivity, understanding, and greater knowledge of the world. However, there are a large group of people who refuse to show interest in other cultures, solely because of the origin of these cultures. 
+
+I live in Malaysia currently, studying at an international school. I have travelled across the world to many parts of Asia, Europe and US, and been captivated by the wide breadth of cultures, and been personally influenced for the better by their values and perspective. However, everywhere I have gpme, there have always been who are driven off the idea of associating with a Bangladeshi. There have been people who have been impressed by my accomplishments, not because of their magnitude, but because of the fact that I am from a third world country. Of course, I will not attempt to paint my life as one of constant discrimination and judging; far from it. In fact , I am very fortunate to know some of the most compassionate, non-judgemental and open minded people that could ever be. But just as much as there are these amazing people, there is an equal amount of people who look down on me solely because of the colour of my skin, who look down on me because of my accent, who look down on me because I was not born in a country they deem to produce good people. 
+
+I would never dare to suggest that institutions are not doing anything to change this, but I would consider suggesting that we do not properly understand the cause of these misguided thoughts. Answer me this, how does an international school with such a range of cultures have students who believe certain cultures are inferior to theirs? There is no shortage of measures institutions across the world take to prevent these thoughts from developing; so how come they still grow?
+
+I propose that it is because we don’t understand how deeply rooted these issues are. There are entire generations of people who have grown up with these thoughts. They are so deeply baked into our psychique, that people express these steryotypes usually completely subconsciously. Casual racism, casual discrimination, is something people do without even thinking. When I say people I also include myself, because we have all, and I mean all,  had the occasional opinion or thought that has its foundations rooted in stereotypes. 
+
+Solving this is quite an undertaking, as the end goal is essentially trying to prune away at decades of misinformation and stereotyping. The best way to accomplish this, in my opinion, is to do the exact thing that these people often struggle to do. To push them into new cultures, to see new people. When you see a wide breadth of people from cultures, you are often forced to see people who go against your stereotypes. Constantly being exposed to that starts to prune the stereotypes away, until the person actually realizes. The issue arises from the fact that as humans, we are resistant to change, and as a result we will actively push away anything that does not fall within our conception of the world, and this is where I think that parents and the wiser people of our community could help the younger ones.
+
+In summary, every community is beautiful in its own ways and all are equally rich in culture and brilliancy, and trying to help everybody to get past any form of internalised stereotyping they might have is the responsibility of our community, and of the older members to get through to them.
