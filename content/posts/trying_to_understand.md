@@ -1,6 +1,7 @@
 ---
 author: ["Adit Chakraborty"]
 title: "Trying to Understand"
+draft: false
 date: "2023-10-18"
 ---
 
